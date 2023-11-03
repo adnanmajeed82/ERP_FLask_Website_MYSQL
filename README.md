@@ -9,3 +9,5 @@ ERP_FLask_Website_MYSQL
 7. Enjoy ERP project
 8. This project made by Adnan Majeed in 2022
 9. Call Now: 03004870104 Lahore Pakistan
+10. pip install Flask-MySQL
+11. pip install Flask
